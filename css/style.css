@@ -34,8 +34,8 @@ p{
 
 #box{
     width: 100%;
-    height: calc(100vh - 139px);
     padding: 30px 20px;
+    padding-bottom: 115px;
     background-color: #DDDDDD;
     display: flex;
     flex-flow: row wrap;
