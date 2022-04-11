@@ -5,9 +5,14 @@
     font-family: sans-serif;
 }
 
+body{
+    background-color: #DDDDDD;
+}
+
 h1{
     margin-left: 20px;
     color: #29B1DD;
+    background-color: white;
 }
 
 #selector{
@@ -36,7 +41,6 @@ p{
     width: 100%;
     padding: 30px 20px;
     padding-bottom: 115px;
-    background-color: #DDDDDD;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
